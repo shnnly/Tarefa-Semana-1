@@ -9,3 +9,9 @@ console.log(email);
 console.log(profissão);
 console.log(idade);
 console.log(lugar);
+
+typeof "Guilherme" + "<br>" +
+typeof "gprimila@gmail.com" + "<br>" +
+typeof "Estudante" + "<br>" +
+typeof 14 + "<br>" +
+typeof "Lapland, Finlandia";
