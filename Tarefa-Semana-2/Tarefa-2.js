@@ -11,7 +11,7 @@ function entrega(params) {
     Esperamos que você esteja contente com o produto. Caso contrário, fale conosco em até 7 dias para que possamos ajudarno`)
     
     console.log(`Atenciosamente,
-    ${vendedor}`)
+    ${vendedor}!`)
 }
 
 entrega()
